@@ -18,9 +18,10 @@ git clone https://github.com/amba-pro/RobotMotorsControl.git
 ### 2. Внесение изменений
 
 Первоначальная версия кода (`motors_control.py`) была добавлена, зафиксирована и запущена с использованием стандартной последовательности команд:
-1 - git add .
-2 - git commit -m "Описательное сообщение о фиксации"
-3 - git push origin main
+
+- git add .
+- git commit -m "Описательное сообщение о фиксации"
+- git push origin main
 
 ### 3. Ветвление и разработка функциональных возможностей
 
